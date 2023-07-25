@@ -32,4 +32,3 @@ To reproduce our evaluations, first run the preprocessing notebooks in the `./da
 Then run `evaluate-models.ipynb`.
 
 Note: this codebase is provided for the purpose of reproducing the results shown in our ICML manuscript. If you are a user of mass spectrometry interested in a spectrum prediction model with a more polished interface, consider the excellent work of our colleagues in the Coley group: https://github.com/samgoldman97/ms-pred
->>>>>>> master
