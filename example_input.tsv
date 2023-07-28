@@ -1,0 +1,3 @@
+Molecule1	NC1=C2C=CC(=CC2=CC=C1)S(O)(=O)=O	[M-H]-	35.0
+Molecule2	C1=CC=NC=C1	[M+H]+	50.0
+Molecule3	NC(=O)N=C1SCCN1CC1=CN=C(Cl)C=C1	[M+H]+	20.0
